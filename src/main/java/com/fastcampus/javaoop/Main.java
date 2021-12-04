@@ -3,6 +3,7 @@ package com.fastcampus.javaoop;
 
 import com.fastcampus.javaoop.logic.JavaSort;
 import com.fastcampus.javaoop.logic.Sort;
+import com.fastcampus.javaoop.logic.BubbleSort;
 
 import java.util.Arrays;
 
